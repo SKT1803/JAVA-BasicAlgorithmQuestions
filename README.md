@@ -12,7 +12,8 @@ Second Activity - 3 questions:
     <li>LinkedList</li>
 </ul>
 
-Third Activity - 3 questions:
+Third Activity - 7 questions:
 <ul>
     <li>LinkedList</li>
+    <li>Queue</li>
 </ul>
