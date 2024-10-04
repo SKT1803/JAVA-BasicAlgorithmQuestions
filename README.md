@@ -9,6 +9,5 @@ First Activity - 7 questions:
 
 Second Activity - 7 questions:
 <ul>
-    <li>Array</li>
-    <li>2D Array</li>
+    <li>LinkedList</li>
 </ul>
