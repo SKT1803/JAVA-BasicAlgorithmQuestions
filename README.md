@@ -7,7 +7,12 @@ First Activity - 7 questions:
     <li>2D Array</li>
 </ul>
 
-Second Activity - 7 questions:
+Second Activity - 3 questions:
+<ul>
+    <li>LinkedList</li>
+</ul>
+
+Third Activity - 3 questions:
 <ul>
     <li>LinkedList</li>
 </ul>
